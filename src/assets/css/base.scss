@@ -1,0 +1,18 @@
+@import "normalize";
+
+$pink: #FFCCCC;
+$base_font_size: 1.4rem;
+
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: #fff;
+  color: #000;
+  font-size: $base_font_size;
+  font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif!important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
